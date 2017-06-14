@@ -1,0 +1,13 @@
+*.pyc
+*.pyd
+*.pyo
+
+# Pycharm
+.idea/
+
+*.sqlite3
+
+.tmp/
+dist/
+node_modules/
+bower_components/
