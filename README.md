@@ -51,19 +51,23 @@ Django 1.11.2
 npm
 bower
 yeoman
-grunt
+Grunt
 
 ### Up & Running
 
 Python
 
+```
 $ pip install virtualenvwrapper
 $ mkvirtualenv -p /usr/bin/python3 mafia
 (mafia)$ pip install -r mafia_web/requirements.txt
 (mafia)$ cd mafia_web/fbi_web/ && python manage.py runserver
+```
 
 Web
 
+```
 $ npm install -g grunt-cli bower yo generator-karma generator-angular
 $ cd mafia_web/fbi_web/mafia/web
 $ grunt serve
+```
