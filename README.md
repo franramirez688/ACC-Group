@@ -47,7 +47,7 @@ Web based on Django Rest Framework (backend) and AngularJS (1.6.x) (frontend)
 
 ### Requirements
 
-Django 1.11.2
+Django
 npm
 bower
 yeoman
